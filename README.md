@@ -1,2 +1,3 @@
 # Primer-parcial-de-programacion
-Primer parcial de la materia de programación en el tercer semestre 
+Primer parcial de la materia Programación en el tercer semestre de la Tecnicatura Universitaria en Programación. UTN - FRM
+
